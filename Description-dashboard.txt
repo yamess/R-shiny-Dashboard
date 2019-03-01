@@ -1,0 +1,14 @@
+Description Dashboard
+Tableau de bord des établissements d’hébergement au Québec
+Avec notre tableau de bord, nous avons voulu définir le paysage hôtelier québécois, en présentant le recensement des différents hébergements, ainsi que des principales catégories permettant de les classifier entre elles et de les filtrer par municipalité. 
+Le tableau de bord peut permettre, entre autres :
+•	À un entrepreneur hôtelier d’effectuer une brève analyse quant à la localisation et à la situation des hôtels, lui permettant de prendre une décision plus éclairée sur le site possible d’un futur établissement.
+•	À un hôtelier de prendre une décision éclairée sur les avantages que pourraient donner l’ouverture de nouvelles fonctions pour son hôtel, en observant les manquements et l’abondance de certaines caractéristiques pour un lieu précis.
+•	Au gouvernement d’opérer sur le tourisme de certaines régions au Québec, en se fiant à la liste des établissements hôteliers et de leurs caractéristiques.
+Voici les fonctionnalités de notre tableau :
+Comptages globaux du nombre total d’établissements, de municipalité et des différents types d’hôtels au Québec.
+Tableau de fréquences de la répartition des différents types établissements au Québec. Dans ce tableau, nous avons voulu montrer le nombre d’établissements par types. (Camping, gîte, hôtel, etc.)
+Tableau de fréquences des établissements par classification. Dans celui-ci, nous avons voulu montrer le nombre d’établissements selon trois caractéristiques : la classification (le nombre d’étoiles), le paiement (les types de paiement) et le type de stationnement (extérieur, intérieur, etc.). Ce tableau est contrôlable grâce aux boutons radios adjacents, où l’utilisateur peut sélectionner la caractéristique qu’il veut observer. 
+Carte montrant la localisation des hôtels.  Par défaut, le tableau démontre brièvement où sont situés les hôtels dans l’ensemble du Québec, mais lorsqu’on utilise le filtre par municipalité, il affiche les localisations précises des hôtels ainsi que leur nom (en passant la souris sur un point.)
+Filtre par municipalité. On l’utilise pour obtenir les descriptions plus précises d’une région en particulier. Le filtre agit sur les 2 tableaux de fréquence de classification et de type. Il agit aussi sur la carte (en montrant la localisation GPS précise des établissements) et sur la liste des établissements.
+Liste des établissements : Il s’agit tout simplement d’un recensement des établissements ainsi que leur noms et coordonnées, permettant à un gestionnaire d’obtenir plus d’informations sur celles-ci; s’il faisait une analyse subséquente.
