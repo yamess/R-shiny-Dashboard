@@ -27,6 +27,6 @@ Adr_Cara <- read.csv("./data/Join_Adr_Cara.csv", header = TRUE, encoding = "UTF-
 
 #------------------------- Définissions des filtres à utiliser dans l'application ---------------
 choix <- c("Classification","Paiement","Auto_Parking")
-list_ville <- c("Tous",unique(Adr_Cara$ADR_MUNICIPALITE)) #Liste des municipalités
+list_ville <- c("Tous", unique(Adr_Cara$ADR_MUNICIPALITE)) #Liste des municipalités
 
 #-------------------------------------- THE END -------------------------------------------

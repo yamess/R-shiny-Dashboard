@@ -111,7 +111,7 @@ shinyServer(function(input, output) {
     if (input$choix_ville == "Tous") { #liste des établissements de toutes les municipalités
       tp <- ETBL_Adr[,c(3,4)]
       tp
-    } else { # On affiche la liste des établissement de la manucipalité choisie
+    } else {# On affiche la liste des établissement de la manucipalité choisie
       tp <- ETBL_Adr[which(ETBL_Adr$ADR_MUNICIPALITE == input$choix_ville),c(3,4)]
       tp
     }

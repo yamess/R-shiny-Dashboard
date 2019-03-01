@@ -97,8 +97,8 @@ body <- dashboardBody(
                         description = 11264583
                       ),
                       boxProfileItem(
-                        title = "Programme",
-                        description = "Master Intelligence d'affaires"
+                        title = "Email",
+                        description = "yameogo.boukari@gmail.com"
                       ),
                       boxProfileItem(
                         title = "Université",
@@ -128,11 +128,11 @@ body <- dashboardBody(
                       ),
                       boxProfileItem(
                         title = "Matricule",
-                        description = "########"
+                        description = "11257217"
                       ),
                       boxProfileItem(
-                        title = "Programme",
-                        description = "Master Intelligence d'affaires"
+                        title = "Email",
+                        description = "girard.nicolas7@gmail.com"
                       ),
                       boxProfileItem(
                         title = "Université",
@@ -166,11 +166,11 @@ body <- dashboardBody(
                       ),
                       boxProfileItem(
                         title = "Matricule",
-                        description = "########"
+                        description = "11258698"
                       ),
                       boxProfileItem(
-                        title = "Programme",
-                        description = "Master Intelligence d'affaires"
+                        title = "Email",
+                        description = "eliettecomp@gmail.com"
                       ),
                       boxProfileItem(
                         title = "Université",
@@ -200,11 +200,11 @@ body <- dashboardBody(
                       ),
                       boxProfileItem(
                         title = "Matricule",
-                        description = "########"
+                        description = "11214221"
                       ),
                       boxProfileItem(
-                        title = "Programme",
-                        description = "BAA"
+                        title = "Email",
+                        description = "Imenabid97@gmail.com"
                       ),
                       boxProfileItem(
                         title = "Université",
