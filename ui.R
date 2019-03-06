@@ -93,10 +93,6 @@ body <- dashboardBody(
                         description = "Yameogo"
                       ),
                       boxProfileItem(
-                        title = "Matricule",
-                        description = 11264583
-                      ),
-                      boxProfileItem(
                         title = "Email",
                         description = "yameogo.boukari@gmail.com"
                       ),
@@ -125,10 +121,6 @@ body <- dashboardBody(
                       boxProfileItem(
                         title = "Nom",
                         description = "Girard"
-                      ),
-                      boxProfileItem(
-                        title = "Matricule",
-                        description = "11257217"
                       ),
                       boxProfileItem(
                         title = "Email",
@@ -165,10 +157,6 @@ body <- dashboardBody(
                         description = "Compaore"
                       ),
                       boxProfileItem(
-                        title = "Matricule",
-                        description = "11258698"
-                      ),
-                      boxProfileItem(
                         title = "Email",
                         description = "eliettecomp@gmail.com"
                       ),
@@ -197,10 +185,6 @@ body <- dashboardBody(
                       boxProfileItem(
                         title = "Nom",
                         description = "Abid"
-                      ),
-                      boxProfileItem(
-                        title = "Matricule",
-                        description = "11214221"
                       ),
                       boxProfileItem(
                         title = "Email",
